@@ -1,3 +1,4 @@
+***
 # __Roganova Anna__
 * My contacts:
   * number: 8-983-120-06-67
@@ -11,3 +12,12 @@ Teamwork
 Collaboration
 Listener
 ```
+## My hard skills:
+```
+HTML & Css first stage
+Java script, Java first stage
+English 
+```
+***
+## University 
+### Siberian State University of Telecommunications and Informatics

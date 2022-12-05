@@ -1,1 +1,1 @@
-https://AnynyaRog.github.io/rsschool-cv/cv
+https://AnynyaRog.github.io/rsschool-cv

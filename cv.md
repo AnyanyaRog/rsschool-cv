@@ -5,7 +5,7 @@
 ***
 ```
 ## My soft skills:
-_Communication_
+*Communication*
 _Teamwork_
 _Collaboration_
 _Listener_

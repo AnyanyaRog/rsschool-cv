@@ -4,7 +4,7 @@
   * Discord nickname: Anna Roganova(@AnyanyaRog)
 ***
 ```
-** My soft skills:
+## My soft skills:
 _Communication_
 _Teamwork_
 _Collaboration_

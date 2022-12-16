@@ -10,13 +10,14 @@ header, footer {
     background-color: rgba(22, 109, 102, 0.788);
 }
 /*Навигация*/
-.menu {
+.menu ul {
     display: flex;
    justify-content: end;
    align-items: center;
    list-style: none;
    height: 50px;
- 
+  background-color:rgba(22, 109, 102, 0.788);
+ margin: 0;
 }
 .menu a {
     padding-right: 50px;
